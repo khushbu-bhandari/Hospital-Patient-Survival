@@ -1,1 +1,1 @@
-# Hospital-Patient-survival
+Health institutions constantly seek to improve their care conditions for the patients. In the current dataset, we will look at the historical data of patient survivals in a particular health care center and identify the main factors leading to high survivals. The objective of the sprint is to predict the chances of survival of the patient after a year of treatment.# Hospital-Patient-survival
